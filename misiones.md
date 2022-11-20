@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar
+* Investigar de villanos
+* Capturar villanos
